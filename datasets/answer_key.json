@@ -1,0 +1,23 @@
+{
+  "total_rows": 210,
+  "real_orders": 200,
+  "duplicate_rows": 10,
+  "missing_amounts": 8,
+  "rupee_text_amounts": 21,
+  "names_with_extra_spaces": 16,
+  "category_spellings": [
+    "CLOTHING",
+    "Clothing",
+    "ELECTRONICS",
+    "Electronics",
+    "FOOD",
+    "FURNITURE",
+    "Food",
+    "Furniture",
+    "clothing",
+    "electronics",
+    "food",
+    "furniture"
+  ],
+  "date_formats_used": 3
+}
